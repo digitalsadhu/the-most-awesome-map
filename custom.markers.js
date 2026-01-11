@@ -267,6 +267,11 @@ UnminedCustomMarkers = {
             z: 565,
             text: "Happypig102's\nbase",
         }),
+        point({
+            x: -302,
+            z: -852,
+            text: "BamseJoM's\nbase",
+        }),
 
 
         // do not delete the following two closing brackets
