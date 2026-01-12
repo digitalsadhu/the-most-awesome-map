@@ -42,6 +42,7 @@ const PINS = {
     base: 'player-base.png',
     subway: 'subway-stop.png',
     trialChamber: 'trial-chamber.png',
+    netherice: 'netherice-stop.png',
 }
 
 const point = (data) => {
@@ -329,4 +330,5 @@ UnminedCustomMarkers = {
         // do not delete the following two closing brackets
     ]
 }
+
 
