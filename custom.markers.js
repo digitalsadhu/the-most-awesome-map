@@ -190,19 +190,19 @@ UnminedCustomMarkers = {
         point({
             x: -841,
             z: 1081,
-            text: "Slipperbutton's\nturtle\nfarm",
+            text: "SlipperyButton's\nturtle\nfarm",
             type: 'farm',
         }),
         point({
             x: 292,
             z: 1790,
-            text: "Slipperbutton's\nredstone\nfarm",
+            text: "SlipperyButton's\nredstone\nfarm",
             type: 'farm',
         }),
         point({
             x: -7450,
             z: 578,
-            text: "Slipperbutton's\nraid\nfarm",
+            text: "SlipperyButton's\nraid\nfarm",
             type: 'farm',
         }),
         point({
@@ -319,8 +319,14 @@ UnminedCustomMarkers = {
             text: "BamseJoM's\nbase",
             type: 'base',
         }),
-
+        point({
+            x: -199,
+            z: 9395,
+            text: "Geode",
+            type: 'netherice',
+        }),
 
         // do not delete the following two closing brackets
     ]
 }
+
